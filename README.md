@@ -39,4 +39,4 @@ Locally preview production build:
 npm run preview
 ```
 
-Most of the logic is located in app.vue
+<b>Most of the logic is located in app.vue</b>
